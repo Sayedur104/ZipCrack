@@ -34,7 +34,7 @@ This script attempts to recover the password of a ZIP file using a brute-force a
 
 1. Run the script:
     ```bash
-    python3 Crack.pyc
+    python3 Crack.py
     ```
 
 2. Follow the on-screen prompts:
