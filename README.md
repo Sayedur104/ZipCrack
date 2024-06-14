@@ -29,6 +29,9 @@ This script attempts to recover the password of a ZIP file using a brute-force a
     ```bash
     pip install pyzipper
     ```
+    ```bash
+    pip install colorama
+    ```
 
 ## Usage
 
